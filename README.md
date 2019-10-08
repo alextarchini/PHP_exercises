@@ -1,9 +1,9 @@
 # PHP_exercises
-##The exercises include:
+## The exercises include:
 
-###Unordered: *Item 1 *Item 2 *Item 2a *Item 2b
+### Unordered: *Item 1 *Item 2 *Item 2a *Item 2b
 
-###Ordered
+### Ordered
 
 *The variables
 *Conditions
@@ -15,16 +15,16 @@
 *Global variables, $_SESSION, $_COOKIE
 *Dates
 
-##Images ![GitHub Logo] (/images/logo.png) Format: ![Alt Text] (url)
+## Images ![GitHub Logo] (/images/logo.png) Format: ![Alt Text] (url)
 
-##Links https://github.com/alextarchini/PHP_exercises automatic! [GitHub] (https://github.com/alextarchini/PHP_exercises)
+## Links https://github.com/alextarchini/PHP_exercises automatic! [GitHub] (https://github.com/alextarchini/PHP_exercises)
 
-##Blockquotes As Alex T said:
+## Blockquotes As Alex T said:
 
 You will see coding it lots of fun! :-)
 
 
 
-##Emojis @octocat 👍 If this page is a cool give it a like! :shipit:
+## Emojis @octocat 👍 If this page is a cool give it a like! :shipit:
 
-####Reference: https://openclassrooms.com/en/courses/918836-concevez-votre-site-web-avec-php-et-mysql/914663-tp-un-mini-chat
+#### Reference: https://openclassrooms.com/en/courses/918836-concevez-votre-site-web-avec-php-et-mysql/914663-tp-un-mini-chat
