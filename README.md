@@ -1,13 +1,8 @@
 # PHP_exercises
 ## The exercises include:
 
-### :
-* Item 1
-* Item 2
-    * Item 2a
-    * Item 2b
-    
-### Ordered
+   
+### Table of Contents: 
 1. Variables
 2. Conditions
 3. Loops
