@@ -1,18 +1,25 @@
 # PHP_exercises
 ## The exercises include:
 
-### Unordered:
+### :
 * Item 1
 * Item 2
     * Item 2a
     * Item 2b
     
 ### Ordered
-1. Item 1
-2. Item 2
-2. Item 3
-   1. Item 3a
-   1. Item 3b
+1. Variables
+2. Conditions
+3. Loops
+4. Functions
+5. Arrays
+6. Forms
+   1. Normal
+   1. File Upload
+7. Global variables, $_SESSION, $_COOKIE
+8. Dates
+
+
 
 ### Unordered: * Item 1 * Item 2 * Item 2a * Item 2b
 
