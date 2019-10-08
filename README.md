@@ -1,7 +1,7 @@
 # PHP_exercises
 ## The exercises include:
 
-### Unordered: *Item 1 *Item 2 *Item 2a *Item 2b
+### Unordered: * Item 1 * Item 2 * Item 2a * Item 2b
 
 ### Ordered
 
